@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Virtual Fit AI",
+  "description": "Upload your photo and a link to a clothing item to virtually try it on.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
